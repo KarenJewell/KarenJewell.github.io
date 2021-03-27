@@ -11,11 +11,10 @@ Python, R, SQL, VBA, M, DAX, SQL Server, SSRS, SSMS, Neo4J, Hadoop, Power BI, Ex
 - Industrial placement from a student's perspective. MBN, Dec 2020
 - How to use a data project. University of Edinburgh's MBA "Data Day" program, Mar 2021
 
-
 ## Events participated
 - Code the City CTC15 as participant, Feb 2019
-- Code the City CTC20 as participant
 - Code the City CTC19 as participant
+- Code the City CTC20 as participant
 - Scottish Open Data Unconference as participant, Sep 2020
 - Women in Data/ Truecue hackathon as participant, Oct 2020
 - Code the City CTC21 as participant
@@ -34,11 +33,8 @@ Python, R, SQL, VBA, M, DAX, SQL Server, SSRS, SSMS, Neo4J, Hadoop, Power BI, Ex
 - Office Manager. Asia Dive Academy-PIN, Singapore. May 2011 – Nov 2011 (6 months)
 - Administrative Executive. Asia Dive Academy-PIN, Singapore. Apr 2010 – May 2011 (1 year)
 
-
 ## Qualifications
 - MSc Data Science with Distinction. Robert Gordon University, 2019 – 2020
-
 - BCS Foundation Certificate in Business Analysis. BCS, 2018
-
 - BA Business Management 2:1 HONS. Robert Gordon University, 2014 – 2018
 
